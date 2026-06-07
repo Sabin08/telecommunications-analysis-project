@@ -63,7 +63,7 @@ Ranks customers by total revenue generated using `DENSE_RANK()` window function.
 - Oracle-specific syntax (SYSDATE, MONTHS_BETWEEN, DATE literals, DUAL)
 
 ## Platform
-
+(I use mac so OracleDB is not compatible for mac so I ran it through the docker)
 - **Database:** Oracle 23ai Free (Docker)
 - **Client:** DBeaver
 - **Target migration:** Snowflake (ETL pipeline — in progress)
